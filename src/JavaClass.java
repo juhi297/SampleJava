@@ -11,6 +11,6 @@ public class JavaClass
 		System.out.println("welcome");
 	}
 	
-	System.out.println("log" + i + ":" +j);
+	System.out.println("log" + i + ":" +j); 
 	}
 }
